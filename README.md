@@ -6,13 +6,14 @@ TITLE : Personal Expense Tracker Application
 
 TEAM MEMBERS:
 
-KARAN SIRANJITH M [ Team Leader ]
+Karan Siranjith M [ Team Leader ]
 
-KARAN K A
+Karan K A
 
-ERIC AMALAN J
+Eric Amalan J
 
-HARISHKUMAR S
+Harishkumar S
+
 INDUSTRY MENTOR : Khusboo
 
 FACULTY MENTOR : Devi D
